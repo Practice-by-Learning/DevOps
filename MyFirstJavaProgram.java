@@ -5,6 +5,6 @@ public class MyFirstJavaProgram {
     */
 
    public static void main(String []args) {
-      System.out.println("Hello World, Polling test"); // prints Hello World
+      System.out.println("Hello World, Polling test, webhook test"); // prints Hello World
    }
 }
